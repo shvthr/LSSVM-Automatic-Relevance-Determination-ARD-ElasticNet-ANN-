@@ -1,0 +1,7 @@
+NAR
+ARIMA
+1-step
+
+p: 3-7
+q: 3-7
+d: 0, 1

@@ -1,0 +1,5 @@
+Ylags:	3
+kernel:	poly_kernel
+mse:	13904.762146
+mae:	90.758262
+mape:	0.033059

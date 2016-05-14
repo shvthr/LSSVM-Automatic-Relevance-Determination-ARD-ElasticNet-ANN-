@@ -1,0 +1,3 @@
+NARX
+regressor: lssvm
+steps: 3

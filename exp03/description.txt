@@ -1,0 +1,3 @@
+NAR
+regressor: ANN
+steps: 1

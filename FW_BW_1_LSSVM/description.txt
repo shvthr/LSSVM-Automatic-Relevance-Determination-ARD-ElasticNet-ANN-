@@ -1,0 +1,12 @@
+feature selection
+
+regressor: LSSVM
+steps: 1
+direction: forward & backward
+
+values set based on previous experiments:
+X_lags = 2
+Y_lags = 10
+kernel = RBF_kernel
+gam = 2.630857185974892e+05
+sig2 = 6.557221533110840e+04

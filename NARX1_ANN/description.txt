@@ -1,0 +1,3 @@
+NARX
+regressor: ANN
+steps: 1

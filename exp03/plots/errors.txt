@@ -1,0 +1,7 @@
+Ylags:	14
+hidden neurons:	5
+train function:	trainrp
+transfer function:	tansig
+mse:	5167.934385
+mae:	61.764486
+mape:	0.020236

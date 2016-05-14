@@ -1,0 +1,7 @@
+
+regressor: elastic net
+steps: 1
+
+X_lags: 3
+Y_lags: 20
+alpha: 0.25, 0.5, 0.75, 1

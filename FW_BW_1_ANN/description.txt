@@ -1,0 +1,12 @@
+feature selection
+
+regressor: ANN
+steps: 1
+direction: forward & backward
+
+values set based on previous experiments:
+Xlags:	1
+Ylags:	18
+hidden neurons:	5
+trans_func = tansig
+train_funcs = trainrp

@@ -1,0 +1,5 @@
+NAR
+regressor: ard
+
+X_lags: 3
+Y_lags: 20

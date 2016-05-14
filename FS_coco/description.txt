@@ -1,0 +1,6 @@
+simple feature selection using coefficients of LSSVM
+
+regressor: LSSVM
+steps: 1
+Xlags:	3
+Ylags:	20

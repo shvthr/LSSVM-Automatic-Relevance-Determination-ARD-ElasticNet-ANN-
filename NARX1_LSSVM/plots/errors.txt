@@ -1,0 +1,6 @@
+Xlags:	3
+Ylags:	10
+kernel:	RBF_kernel
+mse:	15615.300301
+mae:	105.944673
+mape:	0.035967

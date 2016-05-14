@@ -1,0 +1,5 @@
+Ylags:	16
+kernel:	lin_kernel
+mse:	10237.998495
+mae:	86.162183
+mape:	0.029231
